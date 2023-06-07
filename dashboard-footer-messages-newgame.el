@@ -31,7 +31,7 @@
 (defgroup dashboard-footer-messages-newgame ()
   "Short description of your project"
   :group 'tools
-  :prefix "dashboard-footer-messages-newgame.el-"
+  :prefix "dashboard-footer-messages-newgame"
   :link '(url-link "https://github.com/Kyure-A/dashboard-footer-messages-newgame.el"))
 
 (setq dashboard-footer-messages '("「今日も一日がんばるぞい！」 - 涼風青葉"
@@ -42,4 +42,4 @@
 				  "「これでもデバッグはプロ級だし 今はプログラムの知識だってあるんだからまかせてよね！」 - 桜ねね"))
 
 (provide 'dashboard-footer-messages-newgame)
-;;; dashboard-footer-messages-newgame.el.el ends here
+;;; dashboard-footer-messages-newgame.el ends here
