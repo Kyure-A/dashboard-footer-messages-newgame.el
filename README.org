@@ -1,0 +1,9 @@
+[[https://github.com/Kyure-A/dashboard-footer-messages-newgame.el][https://img.shields.io/github/tag/Kyure-A/dashboard-footer-messages-newgame.el.svg?style=flat-square]]
+[[file:LICENSE][https://img.shields.io/github/license/Kyure-A/dashboard-footer-messages-newgame.el.svg?style=flat-square]]
+[[https://codecov.io/gh/Kyure-A/dashboard-footer-messages-newgame.el?branch=master][https://img.shields.io/codecov/c/github/Kyure-A/dashboard-footer-messages-newgame.el.svg?style=flat-square]]
+[[https://github.com/Kyure-A/dashboard-footer-messages-newgame.el/actions][https://img.shields.io/github/actions/workflow/status/Kyure-A/dashboard-footer-messages-newgame.el/test.yml.svg?branch=master&style=flat-square]]
+* dashboard-footer-messages-newgame.el: Short description of your project
+
+* How to Use?
+* License
+  This package is licensed by GPLv3. See [[file:LICENSE][LICENSE]].
