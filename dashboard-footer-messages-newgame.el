@@ -34,12 +34,12 @@
   :prefix "dashboard-footer-messages-newgame"
   :link '(url-link "https://github.com/Kyure-A/dashboard-footer-messages-newgame.el"))
 
-(setq dashboard-footer-messages '("「今日も一日がんばるぞい！」 - 涼風青葉"
-				  "「なんだかホントに入社した気分です！」 - 涼風青葉"
-				  "「そしてそのバグの程度で実力も知れるわけです」- 阿波根うみこ"
-				  "「えーー！なるっちの担当箇所がバグだらけ！？」 - 桜ねね"
-				  "「C++ を完全に理解してしまったかもしれない」 - 桜ねね"
-				  "「これでもデバッグはプロ級だし 今はプログラムの知識だってあるんだからまかせてよね！」 - 桜ねね"))
+(defvar dashboard-footer-messages '("「今日も一日がんばるぞい！」 - 涼風青葉"
+				    "「なんだかホントに入社した気分です！」 - 涼風青葉"
+				    "「そしてそのバグの程度で実力も知れるわけです」- 阿波根うみこ"
+				    "「えーー！なるっちの担当箇所がバグだらけ！？」 - 桜ねね"
+				    "「C++ を完全に理解してしまったかもしれない」 - 桜ねね"
+				    "「これでもデバッグはプロ級だし 今はプログラムの知識だってあるんだからまかせてよね！」 - 桜ねね"))
 
 (provide 'dashboard-footer-messages-newgame)
 ;;; dashboard-footer-messages-newgame.el ends here
